@@ -79,13 +79,14 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': BASE_DIR / 'db.sqlite3',
-        'NAME': 'mydb',
+        'NAME': 'railway',
         'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'PASSWORD': 'ozySDXZnZnxZKmMsETlWdemixmPwvcwN',
+        'HOST': 'crossover.proxy.rlwy.net',
+        'PORT': '10606',
     }
 }
+
 
 
 # Password validation
