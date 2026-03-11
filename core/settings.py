@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-t!nnqgj(0*0g6-%3tzy5vis!hw8i^*9#1k^@x0$99p_381t5do
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGENS=['https://apifilme-production.up.railway.app/','http://127.0.0.1:8000']
+CSRF_TRUSTED_ORIGINS=['https://apifilme-production.up.railway.app/','http://127.0.0.1:8000']
 
 # Application definition
 
